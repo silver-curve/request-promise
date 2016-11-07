@@ -38,7 +38,7 @@
     "stealthy-require": "^1.0.0"
   },
   "peerDependencies": {
-    "request": "^2.34"
+    "request": "silver-curve/request#use_temp_aws-sign"
   },
   "devDependencies": {
     "body-parser": "~1.15.2",
@@ -51,7 +51,7 @@
     "gulp-mocha": "~2.2.0",
     "lodash": "~4.13.1",
     "publish-please": "~2.1.4",
-    "request": "^2.34.0",
+    "request": "silver-curve/request#use_temp_aws-sign",
     "rimraf": "~2.5.3",
     "run-sequence": "~1.2.2"
   }
